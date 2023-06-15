@@ -1,0 +1,30 @@
+E:\Апреленко\C#\Task 2 Example_003\bin\Debug\net6.0\Task 2 Example_003.exe
+E:\Апреленко\C#\Task 2 Example_003\bin\Debug\net6.0\Task 2 Example_003.deps.json
+E:\Апреленко\C#\Task 2 Example_003\bin\Debug\net6.0\Task 2 Example_003.runtimeconfig.json
+E:\Апреленко\C#\Task 2 Example_003\bin\Debug\net6.0\Task 2 Example_003.dll
+E:\Апреленко\C#\Task 2 Example_003\bin\Debug\net6.0\Task 2 Example_003.pdb
+E:\Апреленко\C#\Task 2 Example_003\obj\Debug\net6.0\Task 2 Example_003.csproj.AssemblyReference.cache
+E:\Апреленко\C#\Task 2 Example_003\obj\Debug\net6.0\Task 2 Example_003.GeneratedMSBuildEditorConfig.editorconfig
+E:\Апреленко\C#\Task 2 Example_003\obj\Debug\net6.0\Task 2 Example_003.AssemblyInfoInputs.cache
+E:\Апреленко\C#\Task 2 Example_003\obj\Debug\net6.0\Task 2 Example_003.AssemblyInfo.cs
+E:\Апреленко\C#\Task 2 Example_003\obj\Debug\net6.0\Task 2 Example_003.csproj.CoreCompileInputs.cache
+E:\Апреленко\C#\Task 2 Example_003\obj\Debug\net6.0\Task 2 Example_003.dll
+E:\Апреленко\C#\Task 2 Example_003\obj\Debug\net6.0\refint\Task 2 Example_003.dll
+E:\Апреленко\C#\Task 2 Example_003\obj\Debug\net6.0\Task 2 Example_003.pdb
+E:\Апреленко\C#\Task 2 Example_003\obj\Debug\net6.0\Task 2 Example_003.genruntimeconfig.cache
+E:\Апреленко\C#\Task 2 Example_003\obj\Debug\net6.0\ref\Task 2 Example_003.dll
+D:\C# Home work Lesson 2\Task 2 Example_003\bin\Debug\net6.0\Task 2 Example_003.exe
+D:\C# Home work Lesson 2\Task 2 Example_003\bin\Debug\net6.0\Task 2 Example_003.deps.json
+D:\C# Home work Lesson 2\Task 2 Example_003\bin\Debug\net6.0\Task 2 Example_003.runtimeconfig.json
+D:\C# Home work Lesson 2\Task 2 Example_003\bin\Debug\net6.0\Task 2 Example_003.dll
+D:\C# Home work Lesson 2\Task 2 Example_003\bin\Debug\net6.0\Task 2 Example_003.pdb
+D:\C# Home work Lesson 2\Task 2 Example_003\obj\Debug\net6.0\Task 2 Example_003.csproj.AssemblyReference.cache
+D:\C# Home work Lesson 2\Task 2 Example_003\obj\Debug\net6.0\Task 2 Example_003.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Home work Lesson 2\Task 2 Example_003\obj\Debug\net6.0\Task 2 Example_003.AssemblyInfoInputs.cache
+D:\C# Home work Lesson 2\Task 2 Example_003\obj\Debug\net6.0\Task 2 Example_003.AssemblyInfo.cs
+D:\C# Home work Lesson 2\Task 2 Example_003\obj\Debug\net6.0\Task 2 Example_003.csproj.CoreCompileInputs.cache
+D:\C# Home work Lesson 2\Task 2 Example_003\obj\Debug\net6.0\Task 2 Example_003.dll
+D:\C# Home work Lesson 2\Task 2 Example_003\obj\Debug\net6.0\refint\Task 2 Example_003.dll
+D:\C# Home work Lesson 2\Task 2 Example_003\obj\Debug\net6.0\Task 2 Example_003.pdb
+D:\C# Home work Lesson 2\Task 2 Example_003\obj\Debug\net6.0\Task 2 Example_003.genruntimeconfig.cache
+D:\C# Home work Lesson 2\Task 2 Example_003\obj\Debug\net6.0\ref\Task 2 Example_003.dll
